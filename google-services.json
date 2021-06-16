@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "201545114978",
-    "firebase_url": "https://socialapp-68ab8.firebaseio.com",
-    "project_id": "socialapp-68ab8",
-    "storage_bucket": "socialapp-68ab8.appspot.com"
+    "project_number": "931017985100",
+    "firebase_url": "https://webhook-fb-18e62-default-rtdb.firebaseio.com",
+    "project_id": "webhook-fb-18e62",
+    "storage_bucket": "webhook-fb-18e62.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:201545114978:android:1b9968ef9e0c9fa0aaf83b",
+        "mobilesdk_app_id": "1:931017985100:android:bcbb0da9db26900f5f38e9",
         "android_client_info": {
-          "package_name": "io.github.shahshubh.socialapp_rn"
+          "package_name": "io.github.mopnck.socialapp_rn"
         }
       },
       "oauth_client": [
         {
-          "client_id": "201545114978-aprvh31iccdfcbsrm3qr3lll4ha2u3om.apps.googleusercontent.com",
+          "client_id": "931017985100-ite5la59euq9jfnp83u12v4ffthh85fa.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAQoy_pJjp4kakZ3x2isDGQRZAYiUMO8b4"
+          "current_key": "AIzaSyAhZ-BYqt7H2uvMmfbbHmQuyoL8Irv5sy8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "201545114978-aprvh31iccdfcbsrm3qr3lll4ha2u3om.apps.googleusercontent.com",
+              "client_id": "931017985100-ite5la59euq9jfnp83u12v4ffthh85fa.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
